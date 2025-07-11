@@ -1,8 +1,8 @@
-# Hi there, I'm Rizaldi Ibnu Mohamad 👋
+# Hi there, I'm Rizaldi Ibnu Mohamad
 
-🎓 I'm an **Informatics Engineering graduate** from Musamus University, Papua Selatan. Passionate about game development and web technologies, I love turning ideas into interactive experiences, whether in 2D, 3D, or immersive web.
+I'm an **Informatics Engineering graduate** from Musamus University, Papua Selatan. Passionate about game development and web technologies, I love turning ideas into interactive experiences, whether in 2D, 3D, or immersive web.
 
-🌱 I'm always learning and experimenting with **Unity**, **Three.js**, **PHP**, and building my portfolio with real-world and academic projects.
+I'm always learning and experimenting with **Unity**, **Three.js**, **PHP**, and building my portfolio with real-world and academic projects.
 
 ---
 
